@@ -1,2 +1,2 @@
-# kijanify-web-v2
+# kijanify-test
 v2.x
